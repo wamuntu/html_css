@@ -1,0 +1,31 @@
+#third_item{
+    color: red;
+}
+
+.tff{
+    color: red;
+}
+
+[target]{
+    border: 2px dashed green;
+}
+
+a:link{
+    color: aqua;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: rgb(89, 255, 47);
+}
+
+a:active{
+    color: rgb(17, 0, 255);
+}
+
+div>p{
+    color: red;
+}

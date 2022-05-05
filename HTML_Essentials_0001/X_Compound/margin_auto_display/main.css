@@ -1,0 +1,22 @@
+*{
+    border: 2px dashed hotpink;
+}
+
+html{
+    border:2px dashed green;
+}
+
+body {
+    border: 2px dashed black;
+}
+
+div{
+    height: 200px;
+}
+
+img{
+    width: 100px;
+    border: 10px solid green;
+    margin: 0 auto;
+    display: block;
+}
