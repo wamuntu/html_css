@@ -1,0 +1,25 @@
+a{
+    color: red;
+}
+
+[target]{
+    color: yellowgreen;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:link{
+    color: black;
+}
+:visited{
+    color: blue;
+}
+:hover{
+    color: turquoise;
+}
+:active{
+    color: yellow;
+}
+.emph{
+    color: orange;
+}
