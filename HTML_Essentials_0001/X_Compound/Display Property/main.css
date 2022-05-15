@@ -1,0 +1,27 @@
+div{
+    display: inline-block;
+    border: 2px solid black;
+    width: 7rem;
+    height: 4rem;
+    border-radius: 50%;
+}
+
+.blueOnes{
+background-color: blue;
+}
+
+.greenOnes{
+background-color: green;
+}
+
+.yellowOnes{
+background-color: yellow;
+}
+
+.redOnes{
+    background-color: red;
+}
+
+.pinkOnes{
+    background-color: pink;
+}
